@@ -1,3 +1,4 @@
+import React from "react";
 import { Box, Card, CardActionArea, Typography } from "@mui/material"
 import TouchAppIcon from "@mui/icons-material/TouchApp"
 import Logo from "../components/Logo";
