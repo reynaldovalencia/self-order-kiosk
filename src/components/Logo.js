@@ -1,3 +1,4 @@
+import React from "react";
 import { useStyles } from "../styles"
 const Logo = (props) => {
     const styles = useStyles();
