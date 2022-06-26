@@ -83,4 +83,9 @@ export default App;
 //git init
 //heroku create self-order-kiosk-rey
 
+//kill process puerto 5000
+//sudo lsof -i :5000
+//kill -9 {PID}
+
+
 
