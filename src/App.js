@@ -80,6 +80,6 @@ export default App;
 
 //Instalar en Heroku
 //git init
-
+//heroku create self-order-kiosk-rey
 
 
